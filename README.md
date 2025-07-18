@@ -38,10 +38,10 @@ Littel about this paper
 
 
 Type of recomdation system 
-[ here ]
+https://github.com/ujjwal-basnet/recomdation_system_using_llm/blob/main/recomdationsystem.md
 
 Problem 
-[here are the problems ]
+https://github.com/ujjwal-basnet/recomdation_system_using_llm/blob/main/problem_dimensionality.md
 
 
 
